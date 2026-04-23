@@ -1,0 +1,13 @@
+product_line,gender,total_sales,avg_sales,rank_within_product
+Electronic accessories,Male,27235.509,316.69196511627905,1
+Electronic accessories,Female,27102.0225,322.643125,2
+Fashion accessories,Female,30437.4,317.05625000000003,1
+Fashion accessories,Male,23868.495,291.07920731707316,2
+Food and beverages,Female,33170.9175,368.56575000000004,1
+Food and beverages,Male,22973.9265,273.499125,2
+Health and beauty,Male,30632.7525,348.0994602272727,1
+Health and beauty,Female,18560.9865,290.0154140625,2
+Home and lifestyle,Female,30036.8775,380.2136392405063,1
+Home and lifestyle,Male,23825.0355,294.1362407407408,2
+Sports and travel,Female,28574.721,324.71273863636367,1
+Sports and travel,Male,26548.105499999998,340.3603269230769,2
