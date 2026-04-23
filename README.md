@@ -1,4 +1,6 @@
 # Data Engineering Pipeline Project
+<img width="2136" height="976" alt="image" src="https://github.com/user-attachments/assets/24337eca-6558-4e55-a5fe-655aafbe778d" />
+
 
 ## Overview
 This project implements an end-to-end data engineering pipeline that extracts data from Kaggle, transforms it into dimension and fact tables, and loads it into a SQLite database. It also generates analytical reports using SQL and proposes a scalable cloud architecture.
