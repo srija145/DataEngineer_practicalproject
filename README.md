@@ -44,7 +44,7 @@ This project implements an end-to-end data engineering pipeline that extracts da
 - `solution_explanation.docx` → project explanation
 
 ## CONCLUSION
-•	Complete pipeline successfully implemented
-•	Enabled structured analytics and reporting
-•	Designed scalable cloud-ready solution
+- Complete pipeline successfully implemented
+- Enabled structured analytics and reporting
+- Designed scalable cloud-ready solution
 
