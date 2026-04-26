@@ -42,3 +42,9 @@ This project implements an end-to-end data engineering pipeline that extracts da
 - `report_output.csv` → output dataset
 - `cloud_architecture.pdf` → system design
 - `solution_explanation.docx` → project explanation
+
+## CONCLUSION
+•	Complete pipeline successfully implemented
+•	Enabled structured analytics and reporting
+•	Designed scalable cloud-ready solution
+
