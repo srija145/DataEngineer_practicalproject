@@ -15,7 +15,7 @@ This project implements an end-to-end data engineering pipeline that extracts da
 1. Data Extraction using Kaggle API
 2. Data Transformation into star schema
 3. Load into SQLite database
-4. Analytical reporting using SQL (joins + window functions)
+4. Analytical reporting using SQL (joins and window functions)
 5. Cloud architecture design for scalability
 
 ## Data Model
